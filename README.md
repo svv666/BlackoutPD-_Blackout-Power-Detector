@@ -58,6 +58,14 @@ Power Guard выключает компьютер при определённы�
 Проект распространяется под лицензией **GNU General Public License v3.0 (GPLv3)**.
 Полный текст — в файле `LICENSE.txt`.
 
-```text
+
 Copyright (c) 2026 Stepanenko Viktor
-```
+
+Изображения 
+
+<img width="355" height="500" alt="PowerGuard_1 (2)" src="https://github.com/user-attachments/assets/7aba61d6-3ec4-445b-8468-4659b19488fa" />    <img width="355" height="500" alt="PowerGuard_3 (2)" src="https://github.com/user-attachments/assets/d305e788-8822-4aa1-914b-b8aadc600939" />   <img width="355" height="500" alt="PowerGuard_4 (2)" src="https://github.com/user-attachments/assets/17088051-4744-4128-bdf4-7adfa414add3" />
+<img width="494" height="38" alt="Taskmgr_78zLhuYEGz (2)" src="https://github.com/user-attachments/assets/1c5d4141-7d56-4b81-af72-c0ca14c45fba" />
+
+
+
+
